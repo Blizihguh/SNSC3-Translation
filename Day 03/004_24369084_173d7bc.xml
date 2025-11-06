@@ -1,15 +1,19 @@
+<tl_file>
 <location>
 	<sjis>
-		ボスタフ工房　ディックル村支部<end_line>
-	</sjis>
-</location>
-<dialogue>
-	<info box="simple">
-	<portrait_l name="man">
-	<sjis>
-		なんか用かよ？<end_line>
+		ボスタフ工房　ディックル村支部<end_line />
 	</sjis>
 	<ascii>
-		What do you want?<end_line>
+		Bostaph's Workshop　Deckell Branch<end_line />
 	</ascii>
-</dialogue>
+</location>
+<dialogue>
+	<info box="simple" />
+	<portrait_l name="man" />
+	<sjis>
+		なんか用かよ？<end_line />
+	</sjis>
+	<ascii>
+		What do you want?<end_line />
+	</ascii>
+</dialogue></tl_file>
